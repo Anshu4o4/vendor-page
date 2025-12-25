@@ -1,0 +1,23 @@
+.login-container {
+  max-width: 350px;
+  margin: 100px auto;
+  padding: 20px;
+  box-shadow: 0 0 10px #ccc;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin: 8px 0;
+}
+
+button {
+  padding: 8px 16px;
+  cursor: pointer;
+}
+
+.card {
+  padding: 15px;
+  background: #f5f5f5;
+  border-radius: 8px;
+}
